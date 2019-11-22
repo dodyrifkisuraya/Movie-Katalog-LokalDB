@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">IStreamV3</string>
+
+    <string name="action_settings">Ganti Bahasa</string>
+    <string name="dody_rifki_suraya">Dody Rifki Suraya</string>
+    <string name="dodyrifkisuraya_gmail_com">dodyrifkisuraya@gmail.com</string>
+
+    <string name="dummyBahasa">Indonesia</string>
+    <string name="dummyOverview">Lorem Ipsum is simply dummy text of the printing </string>
+    <string name="dummyRilis">2 January 2019</string>
+    <string name="dummyRating">(7.5/10) dari 1000 Ratingers</string>
+    <string name="dummyJudul">JUDUL</string>
+
+    <string name="rating">Rating : </string>
+    <string name="date_of_release">Tanggal Rilis :</string>
+    <string name="overview">Ringkasan :</string>
+    <string name="original_language">Bahasa Asli :</string>
+
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="succes_add">Data Favorit Movie Berhasil Ditambahakan</string>
+    <string name="fail_add">Data Favorite Movie Gagal Ditambahkan</string>
+
+    <string name="movie">Film</string>
+    <string name="tv_show">TV Show</string>
+    <string name="favorit_movie">Film Favorit</string>
+    <string name="favorit_tv_show">Tv Show Favorit </string>
+    <string name="logo">logo</string>
+    <string name="star">star</string>
+    <string name="banner">banner</string>
+</resources>
